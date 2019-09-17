@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bas-server:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>bas-server</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="bas-server-1.0.1.war">
+      <element id="artifact" artifact-name="bas-server:war exploded" />
+    </root>
+  </artifact>
+</component>

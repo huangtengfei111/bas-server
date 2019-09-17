@@ -1,0 +1,5 @@
+subject=testLic
+publicAlias=publicCert
+password=public_password1234
+issuedAt=2019-05-13 10:10:10
+expiredAt=2019-06-10 17:50:10

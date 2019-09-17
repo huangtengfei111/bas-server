@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache name="shiro">
+ 
+    <diskStore path="java.io.tmpdir"/>
+ 
+    <defaultCache
+            maxElementsInMemory="10000"
+            eternal="false"
+            timeToIdleSeconds="120"
+            timeToLiveSeconds="120"
+            overflowToDisk="false"
+            diskPersistent="false"
+            diskExpiryThreadIntervalSeconds="120"
+    />
+    <!-- 如果5分钟内失败次数达到N次 -->
+    <cache name="sensorHolder"
+           maxEntriesLocalHeap="2000"
+           eternal="false"
+           timeToIdleSeconds="300"
+           timeToLiveSeconds="0"
+           overflowToDisk="false"
+           statistics="true">
+    </cache>
+    <!-- 黑名单中账号锁定10分钟 -->>
+    <cache name="blacklistHolder"
+           maxEntriesLocalHeap="2000"
+           eternal="false"
+           timeToIdleSeconds="0"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           statistics="true">
+    </cache> 
+</ehcache>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.codehaus.jackson:jackson-mapper-lgpl:1.8.2">
+    <CLASSES>
+      <root url="jar://F:/java2/repository1/org/codehaus/jackson/jackson-mapper-lgpl/1.8.2/jackson-mapper-lgpl-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/java2/repository1/org/codehaus/jackson/jackson-mapper-lgpl/1.8.2/jackson-mapper-lgpl-1.8.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/java2/repository1/org/codehaus/jackson/jackson-mapper-lgpl/1.8.2/jackson-mapper-lgpl-1.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

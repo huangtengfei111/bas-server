@@ -1,0 +1,11 @@
+/target
+
+.classpath
+.project
+.setting/
+.settings/
+maven-eclipse.xml
+.externalToolBuilders/
+logs/
+DS_Store
+**/.DS_Store

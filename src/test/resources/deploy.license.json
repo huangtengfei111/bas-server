@@ -1,0 +1,24 @@
+{
+    "host": {
+        "id": "D58A4DADC1CE174B651899AB3342E330",
+        "systemSN": "Alibaba Cloud ECS (version: pc-i440fx-2.1)/unknown",
+        "allowedIPAddress": [
+            "172.16.29.222"
+        ],
+        "allowedMacAddress": [
+            "00:16:3e:12:c4:6c"
+        ],
+        "processorInfo": "Intel64 Family 6 Model 85 Stepping 4/0F81FBFF00500654",
+        "baseboardInfo": "unknown/unknown/"
+    },
+    "plan": "Trival",
+    
+    "password": "public_password1234",
+    "publicAlias": "pub_D58A4DADC1CE174B651899AB3342E330",
+    "holder": {
+        "name": "有关部门",
+        "country": "CN",
+        "state": "SH",
+        "city": "SH"
+    }
+}
