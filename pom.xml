@@ -53,7 +53,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <javalite.version>2.2</javalite.version>
         <activeweb.version>2.3-20190203.171650-13</activeweb.version>
-        <shiro.version>1.4.0</shiro.version>
+        <shiro.version>1.5.0</shiro.version>
         <mysql.connector.version>5.1.47</mysql.connector.version>
         <environments>test,development</environments>
         <logger-name>CONSOLE</logger-name>
